@@ -28,7 +28,6 @@ Ao executar o programa, ele solicitará as informações da conta passo a passo.
 O programa espera que o saldo seja digitado usando ponto (.) como separador decimal (ex: 237.48). Se você usar vírgula (,), poderá ocorrer um erro de **InputMismatchException**.
 
 Após inserir todas as informações, o programa exibirá uma mensagem similar a esta:
-
 Olá Mário Andrades, obrigado por criar uma conta em nosso banco!
 Sua agência é 067-8, conta 1021 e seu saldo é R$ 237,48.
 O saldo já está disponível para saque! Aproveite nossos serviços!
