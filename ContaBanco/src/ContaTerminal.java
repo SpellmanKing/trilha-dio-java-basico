@@ -26,5 +26,6 @@ public class ContaTerminal {
         System.out.println("Sua agência é " + agencia + ", conta " + numero + " e seu saldo é R$ " + String.format(Locale.forLanguageTag("pt-BR"), "%.2f", saldo) + ".");
         System.out.println("O saldo já está disponível para saque! Aproveite nossos serviços!");
         scanner.close();
+
     }
 }
